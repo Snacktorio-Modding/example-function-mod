@@ -4,5 +4,5 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3726345843
 
 In this example, we add an big 'spring' jump when pressing spacebar, emulating the jump you get from springboards in the game.
 
-Part of the "Official Modding Guide" for Snacktorio:  
+Part of the "Creating Custom Content!" guide for Snacktorio:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3726274367
